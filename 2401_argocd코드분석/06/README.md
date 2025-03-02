@@ -1,5 +1,7 @@
 # ArgoCD Notification Controller 분석
 
+TODO: 북마크별로 상세 설명 필요
+
 ## 1. Notification Controller 생성 과정
 
 ### 1-1. `NewFactory()`
